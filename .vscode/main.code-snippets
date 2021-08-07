@@ -1,0 +1,16 @@
+{
+  "Horizontal Text": {
+    "prefix": "ht",
+    "body": [
+      "<span class=\"txt horizontal\">$1</span>"
+    ],
+    "description": "Horizontal Text"
+  },
+  "Vertical Text": {
+    "prefix": "vt",
+    "body": [
+      "<span class=\"txt\">$1</span>"
+    ],
+    "description": "Horizontal Text"
+  },
+}
