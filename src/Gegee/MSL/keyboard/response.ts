@@ -50,4 +50,4 @@ export class StaticKeyResponse {
   }
 }
 
-export type KeyResponse = StaticKeyResponse | DynamicKeyResponse;
+export type GegeeKeyResponse = StaticKeyResponse | DynamicKeyResponse;
